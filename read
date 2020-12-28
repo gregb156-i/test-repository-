@@ -1,0 +1,16 @@
+# My awesome rest API
+
+## installation 
+
+```
+pip install flask
+python app.py
+```
+
+## description on what the project dose
+
+## implemenation 
+
+this project is implemented using flask, and is a rest api a store
+
+
